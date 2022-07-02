@@ -6,7 +6,7 @@ class ocExcel():
     """Extended class to work with excel file
     """
     #region CLASS FIELDS
-    DEFAULT_PATH = os.path.abspath(__file__).replace('ocing86.py','')
+    DEFAULT_PATH = os.path.abspath(__file__).replace('nama_data_kalian.py','')
     XL_PATH = ''
     FILE_NAME = ''
     DF_DICT = {}
