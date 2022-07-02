@@ -1,5 +1,8 @@
 # secretproject
+
 Assalamualaikum, Wr, Wb
+Selamat Datang di Secret Project
+Disini kita akan membahas tentang data analyst, data science, akuntansi, finance serta budgeting
 
 Untuk kalian baru belajar tentang data analyst atau data science semacamnya sudah tidak asing lagi pasti dengan bahasa pemograman seperti python
 
